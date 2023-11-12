@@ -15,9 +15,9 @@ print("\n")
 
 
 # # Without walrus operator
-# squares = []
-# for x in range(10):
-#     squares.append(x * x)
+squares = []
+for x in range(10):
+    squares.append(x * x)
 
 # print(squares)
 
